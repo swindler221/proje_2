@@ -7,7 +7,7 @@ st.set_page_config(
     layout="wide"
 )
 
-DEFAULT_API_URL = "http://localhost:1337"
+DEFAULT_API_URL = "https://proje-backend-ynwx.onrender.com"
 DEFAULT_API_TOKEN = "7985292cd9b18d78b946121b5e1d22b0bacce741a6b8d37d8cbe8b5c97eddb4ae5c4447276b8f9285c0bc66d2e940ec0a50784203e437ac3e5ea1f473dd20eebf6b142ebe901a3cfee132106bc8bd709826aca923828210e054d2b3afb62a75e7293c479e305723f0e6371eda8878f83aa38219ac2c0770ebd5d08a802822412"
 
 st.sidebar.markdown("### ⚙️ Bağlantı Ayarları / Settings")
